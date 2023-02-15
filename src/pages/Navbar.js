@@ -141,7 +141,7 @@ function Navbar() {
               </Form.Group>
             </Form>
             <button onClick={toggleShowA} className="filter-btn">
-              Close
+              Close This
             </button>
             <button onClick={onSubmit} className="filter-btn">
               Save
